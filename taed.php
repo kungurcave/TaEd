@@ -920,39 +920,6 @@ class DbHelper
 
 }
 
-
-
-/*
-	
-	$names['xml_yrl_url'] = "Ссылка на фид";
-	$names['def_name'] = "ФИО ответственного";
-	$names['def_phone'] = "Телефон";
-	$names['def_phone2'] = "----Телефон 2----";
-	$names['def_phone3'] = "----Телефон 3----";
-	$names['def_organization'] = "Название организации";
-	$names['def_agency-id'] = "----id агенства----";
-	$names['def_url'] = "Сайт агенства";
-	$names['def_email'] = "Email агенства";
-	$names['partner'] = "----Партнер----";
-	$names['report_filename'] = "Имя файла отчета";
-	
-	$names['load_num'] = "Номер для крона";
-	$names['priority'] = "Приоритет, чем больше число, тем ниже";
-	$names['max_img_num_per_ad'] = "Число картинок на объявление";
-	$names['storageId'] = "id хранилища";
-	$names['storagePathSize'] = "Размер пути, ставится для больших фидов";
-	$names['off'] = "Отключен";
-
-	$values['load_num'] = "1";
-	$values['priority'] = "2";
-	$values['max_img_num_per_ad'] = "4";
-	$values['storageId'] = "1";
-	$values['storagePathSize'] = "0";
-	$values['off'] = "0";
-
-*/
-
-
 class Html {
 	
     const UtfAdd		= "<a href='javascript:;' class='UtfSymbols SymbolAdd' onclick='document.querySelector(\"#idDivAddForm\").classList.add(\"visible\")'>&nbsp;+&nbsp;</a>";
