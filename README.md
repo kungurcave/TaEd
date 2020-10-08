@@ -1,4 +1,4 @@
-# TaEd - PHP MySQL Table Editor. Редактор таблиц базы данных MySQL. 
+# Редактор таблиц базы данных MySQL. 
 
 Отредактируйте класс ConfigDB с параметрами подключения к вашей базе данных.
 Разместите taed.php на вашем веб-сервере.
@@ -12,6 +12,8 @@
 При необходимости, добавьте сами все, чего вам не хватает.
 
 ***
+
+# TaEd - PHP MySQL Table Editor.
 
 Edit the ConfigDB class with the parameters for connecting to your database. Place taed.php on your web server. Access it through a browser to view and edit your database tables. Operations of adding, editing and deleting records are available.
 
