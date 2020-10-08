@@ -1,3 +1,6 @@
+
+![Скриншот](https://raw.githubusercontent.com/kungurcave/TaEd/master/Screenshot.png "Скриншот")
+
 # Редактор таблиц базы данных MySQL. 
 
 Отредактируйте класс ConfigDB с параметрами подключения к вашей базе данных.
